@@ -12,3 +12,4 @@ avg2 = su/len(li)   # avg of elements in list.
 print(avg2)
 print("Sum of list:",su)
 print("Average of list:",avg2)
+# some changes added
