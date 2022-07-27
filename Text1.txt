@@ -6,7 +6,7 @@ while True:
     else:
         li.append(num1)
     print(li)
-su = sum(li)
+su = sum(li)    # sum of elements in list.
 print(su)
 avg2 = su/len(li)
 print(avg2)
