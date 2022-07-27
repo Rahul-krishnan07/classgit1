@@ -4,9 +4,9 @@ while True:
     if num1 == 0:
         break
     else:
-        li.append(num1)
+        li.append(num1)  
     print(li)
 su = sum(li)    # sum of elements in list.
 print(su)
-avg2 = su/len(li)
+avg2 = su/len(li)   # avg of elements in list.
 print(avg2)
