@@ -1,0 +1,12 @@
+li = []
+while True:
+    num1 = int(input("Enter numbers: "))
+    if num1 == 0:
+        break
+    else:
+        li.append(num1)
+    print(li)
+su = sum(li)
+print(su)
+avg2 = su/len(li)
+print(avg2)
